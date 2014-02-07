@@ -29,7 +29,7 @@ namespace KabelTest
             public float maxInput;
             public Dictionary<DIRECTION, float> inputFrom;
             public float maxOutput;
-            public Dictionary<DIRECTION, float> outputTo;
+            public Dictionary<DIRECTION, float> outputTo;  
 
             public bool isActive;
         }
