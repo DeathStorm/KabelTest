@@ -75,6 +75,7 @@
             // 
             // field1_1
             // 
+            this.field1_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field1_1.Location = new System.Drawing.Point(68, 243);
             this.field1_1.Name = "field1_1";
             this.field1_1.Size = new System.Drawing.Size(50, 50);
@@ -85,6 +86,7 @@
             // 
             // field1_2
             // 
+            this.field1_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field1_2.Location = new System.Drawing.Point(124, 243);
             this.field1_2.Name = "field1_2";
             this.field1_2.Size = new System.Drawing.Size(50, 50);
@@ -95,6 +97,7 @@
             // 
             // field1_3
             // 
+            this.field1_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field1_3.Location = new System.Drawing.Point(180, 243);
             this.field1_3.Name = "field1_3";
             this.field1_3.Size = new System.Drawing.Size(50, 50);
@@ -105,6 +108,7 @@
             // 
             // field1_4
             // 
+            this.field1_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field1_4.Location = new System.Drawing.Point(236, 243);
             this.field1_4.Name = "field1_4";
             this.field1_4.Size = new System.Drawing.Size(50, 50);
@@ -115,6 +119,7 @@
             // 
             // field1_5
             // 
+            this.field1_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field1_5.Location = new System.Drawing.Point(292, 243);
             this.field1_5.Name = "field1_5";
             this.field1_5.Size = new System.Drawing.Size(50, 50);
@@ -125,6 +130,7 @@
             // 
             // field1_6
             // 
+            this.field1_6.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field1_6.Location = new System.Drawing.Point(348, 243);
             this.field1_6.Name = "field1_6";
             this.field1_6.Size = new System.Drawing.Size(50, 50);
@@ -135,6 +141,7 @@
             // 
             // field1_7
             // 
+            this.field1_7.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field1_7.Location = new System.Drawing.Point(404, 243);
             this.field1_7.Name = "field1_7";
             this.field1_7.Size = new System.Drawing.Size(50, 50);
@@ -145,6 +152,7 @@
             // 
             // field1_8
             // 
+            this.field1_8.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field1_8.Location = new System.Drawing.Point(460, 243);
             this.field1_8.Name = "field1_8";
             this.field1_8.Size = new System.Drawing.Size(50, 50);
@@ -155,6 +163,7 @@
             // 
             // field1_9
             // 
+            this.field1_9.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field1_9.Location = new System.Drawing.Point(516, 243);
             this.field1_9.Name = "field1_9";
             this.field1_9.Size = new System.Drawing.Size(50, 50);
@@ -165,6 +174,7 @@
             // 
             // field1_0
             // 
+            this.field1_0.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field1_0.Location = new System.Drawing.Point(12, 243);
             this.field1_0.Name = "field1_0";
             this.field1_0.Size = new System.Drawing.Size(50, 50);
@@ -175,6 +185,7 @@
             // 
             // field0_0
             // 
+            this.field0_0.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field0_0.Location = new System.Drawing.Point(12, 187);
             this.field0_0.Name = "field0_0";
             this.field0_0.Size = new System.Drawing.Size(50, 50);
@@ -185,6 +196,7 @@
             // 
             // field0_9
             // 
+            this.field0_9.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field0_9.Location = new System.Drawing.Point(516, 187);
             this.field0_9.Name = "field0_9";
             this.field0_9.Size = new System.Drawing.Size(50, 50);
@@ -195,6 +207,7 @@
             // 
             // field0_8
             // 
+            this.field0_8.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field0_8.Location = new System.Drawing.Point(460, 187);
             this.field0_8.Name = "field0_8";
             this.field0_8.Size = new System.Drawing.Size(50, 50);
@@ -205,6 +218,7 @@
             // 
             // field0_7
             // 
+            this.field0_7.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field0_7.Location = new System.Drawing.Point(404, 187);
             this.field0_7.Name = "field0_7";
             this.field0_7.Size = new System.Drawing.Size(50, 50);
@@ -215,6 +229,7 @@
             // 
             // field0_6
             // 
+            this.field0_6.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field0_6.Location = new System.Drawing.Point(348, 187);
             this.field0_6.Name = "field0_6";
             this.field0_6.Size = new System.Drawing.Size(50, 50);
@@ -225,6 +240,7 @@
             // 
             // field0_5
             // 
+            this.field0_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field0_5.Location = new System.Drawing.Point(292, 187);
             this.field0_5.Name = "field0_5";
             this.field0_5.Size = new System.Drawing.Size(50, 50);
@@ -235,6 +251,7 @@
             // 
             // field0_4
             // 
+            this.field0_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field0_4.Location = new System.Drawing.Point(236, 187);
             this.field0_4.Name = "field0_4";
             this.field0_4.Size = new System.Drawing.Size(50, 50);
@@ -245,6 +262,7 @@
             // 
             // field0_3
             // 
+            this.field0_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field0_3.Location = new System.Drawing.Point(180, 187);
             this.field0_3.Name = "field0_3";
             this.field0_3.Size = new System.Drawing.Size(50, 50);
@@ -255,6 +273,7 @@
             // 
             // field0_2
             // 
+            this.field0_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field0_2.Location = new System.Drawing.Point(124, 187);
             this.field0_2.Name = "field0_2";
             this.field0_2.Size = new System.Drawing.Size(50, 50);
@@ -265,6 +284,7 @@
             // 
             // field0_1
             // 
+            this.field0_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.field0_1.Location = new System.Drawing.Point(68, 187);
             this.field0_1.Name = "field0_1";
             this.field0_1.Size = new System.Drawing.Size(50, 50);
@@ -275,8 +295,6 @@
             // 
             // SimulationsTimer
             // 
-            this.SimulationsTimer.Enabled = true;
-            this.SimulationsTimer.Interval = 1000;
             this.SimulationsTimer.Tick += new System.EventHandler(this.SimulationsTimer_Tick);
             // 
             // cbSimulationStatus
@@ -288,6 +306,7 @@
             this.cbSimulationStatus.TabIndex = 22;
             this.cbSimulationStatus.Text = "Simulation Aktiv?";
             this.cbSimulationStatus.UseVisualStyleBackColor = true;
+            this.cbSimulationStatus.CheckedChanged += new System.EventHandler(this.cbSimulationStatus_CheckedChanged);
             // 
             // Form1
             // 
