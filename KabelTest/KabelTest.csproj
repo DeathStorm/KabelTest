@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Block.cs" />
+    <Compile Include="CT.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
