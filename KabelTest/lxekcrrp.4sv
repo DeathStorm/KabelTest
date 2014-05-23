@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KabelTest
+{
+    public class Block
+    {
+
+        public enum DIRECTION { Left, Right, Top, Bottom };
+        public enum FIELDTYPE { Nothing, Cable, Lamp, Engine };
+
+        public FIELDTYPE blockType;
+
+        public string text;
+            public FIELDTYPE type;
+            public float currentVoltage;
+            public float maxVoltage;
+
+
+            public float currentProduction;
+            public float currentResistance;
+            public float currentConsumption;
+
+            public Dictionary<DIRECTION, bool> hasNeighbour;
+
+            public float maxInput;
+            public Dictionary<DIRECTION, float> inputFrom;
+        
+            public float maxOutput;
+            public Dictionary<DIRECTION, float> outputTo;
+
+            public bool isActive;
+
+             
+
+            public void Update()
+            {}
+
+
+    }
+}
